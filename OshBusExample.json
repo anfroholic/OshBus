@@ -2,6 +2,7 @@
   "UUID": 18446744073709552000,
   "name": "generalIODevice1",
   "manufacturerName": "Evezor",
+  "commander": true,
   "firmwareVersion": "generalDeviceIO_v1.0",
   "microPythonVersion": "v1.12",
   "nodeID": 128,
@@ -10,17 +11,20 @@
     {
       "name": "motorController",
       "deviceID": "01",
-      "UUID": "01"
+      "UUID": "01",
+      "library": "motorControllerLibrary.py"
     },
     {
       "name": "neopixelString",
       "deviceID": "02",
-      "UUID": "02"
+      "UUID": "02",
+      "library": "neopixelStringLibrary.py"
     },
     {
       "name": "generalIODevice1",
       "deviceID": "128",
-      "UUID": "01"
+      "UUID": "01",
+      "library": "generalDevice1Library.py"
     }
   ],
   "dictionaryHash": "d131dd02c5e6eec4 693d9a0698aff95c 2fcab58712467eab 4004583eb8fb7f89 55ad340609f4b302",
