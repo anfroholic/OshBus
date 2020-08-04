@@ -29,18 +29,5 @@
   ],
   "dictionaryHash": "d131dd02c5e6eec4 693d9a0698aff95c 2fcab58712467eab 4004583eb8fb7f89 55ad340609f4b302",
   "family": "cassetteLoader",
-  "familyLibrary": "cassetteLoaderLibrary.py",
-  "parent": null,
-  "children": [
-    {
-      "name": "motorController",
-      "deviceID": "01",
-      "UUID": "01"
-    },
-    {
-      "name": "neopixelString",
-      "deviceID": "02",
-      "UUID": "02"
-    }
-  ]
+  "familyLibrary": "cassetteLoaderLibrary.py"
 }
