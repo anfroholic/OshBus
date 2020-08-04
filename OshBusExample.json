@@ -23,11 +23,9 @@
     {
       "name": "generalIODevice1",
       "deviceID": "128",
-      "UUID": "01",
+      "UUID": "03",
       "library": "generalDevice1Library.py"
     }
   ],
-  "dictionaryHash": "d131dd02c5e6eec4 693d9a0698aff95c 2fcab58712467eab 4004583eb8fb7f89 55ad340609f4b302",
-  "family": "cassetteLoader",
-  "familyLibrary": "cassetteLoaderLibrary.py"
+  "dictionaryHash": "d131dd02c5e6eec4 693d9a0698aff95c 2fcab58712467eab 4004583eb8fb7f89 55ad340609f4b302"
 }
