@@ -1,0 +1,32 @@
+{
+  "dictionary": [
+    {
+      "name": "motorController",
+      "deviceID": "01",
+      "UUID": "01",
+      "library": "motorControllerLibrary.py",
+      "manufacturerName": "Evezor",
+      "firmwareVersion": "motorController_v1.0",
+      "microPythonVersion": "v1.12"
+    },
+    {
+      "name": "neopixelString",
+      "deviceID": "02",
+      "UUID": "02",
+      "library": "neopixelStringLibrary.py",
+      "manufacturerName": "Evezor",
+      "firmwareVersion": "neoPixelController_v0.9",
+      "microPythonVersion": "v1.12"
+    },
+    {
+      "name": "generalIODevice1",
+      "deviceID": "128",
+      "UUID": "03",
+      "library": "generalDevice1Library.py",
+      "manufacturerName": "Evezor",
+      "firmwareVersion": "generalDeviceIO_v1.0",
+      "microPythonVersion": "v1.12"
+    }
+  ],
+  "dictionaryHash":"[(28457636, 17), (49292555, 106), (43191863, 149), (42907189, 173), (23531439, 203), (6542446, 207), (14047327, 270), (21618394, 342), (23426373, 356), (30563696, 364), (57695763, 432), (1266282, 515), (27570813, 568), (16915376, 647), (32663166, 683)]"
+}
